@@ -1,7 +1,7 @@
-const items: string[] = ["Hi", "Bonjour"];
-items.push("Hello");
+const items3: string[] = ["Hi", "Bonjour"];
+items3.push("Hello");
 
-console.log(items);
+console.log(items3);
 
 const numlist: number[] = [17];
 numlist.push(20);
@@ -17,4 +17,5 @@ console.log(items2)
 
 const things : Array<string> = ["Hi", "Wassup"]
     things.push("Hello")
+
 
