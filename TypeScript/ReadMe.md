@@ -1,1 +1,4 @@
-// Updated for Faqi Repo until Tuples.ts 
+// TS
+
+@ Lesson Learned From WebDev Simplifed
+@ Lesson Learned From Huxn WebDev
